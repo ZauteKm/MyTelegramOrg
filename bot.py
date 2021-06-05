@@ -74,11 +74,11 @@ def start(update, context):
             [
                 [
                     InlineKeyboardButton('⚠️ Disclaimer', url='https://t.me/ZauteKm/353'),
-                    InlineKeyboardButton('Feedback 🗣️', url='https://t.me/joinchat/qvArnd0aDlkzNjM1')
+                    InlineKeyboardButton('Feedback 🗣️', url='https://t.me/InFoJosTelGroup')
               ],[
                     InlineKeyboardButton('🤖 Bot Lists', url='https://t.me/TG_BotList/37'),
                     InlineKeyboardButton('Music 👨‍🎤', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl'),
-                    InlineKeyboardButton('Channel 📢', url='https://t.me/LushaiTech')
+                    InlineKeyboardButton('Channel 📢', url='https://t.me/InFoJosTel')
               ],[
                     InlineKeyboardButton('⚜️ Subscribe Now YouTube ⚜️', url='https://youtube.com/playlist?list=PLzkiTywVmsSfmhaDdWNZ5PRmmMKGTIxPJ')
                ]
@@ -184,11 +184,11 @@ def input_tg_code(update, context):
                     [
                          [
                                InlineKeyboardButton('⚠️ Disclaimer', url='https://t.me/ZauteKm/353'),
-                               InlineKeyboardButton('Feedback 🗣️', url='https://t.me/joinchat/qvArnd0aDlkzNjM1')
+                               InlineKeyboardButton('Feedback 🗣️', url='https://t.me/InFoJosTelGroup')
                        ],[
                                InlineKeyboardButton('🤖 Bot Lists', url='https://t.me/TG_BotList/37'),
                                InlineKeyboardButton('Music 👨‍🎤', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl'),
-                               InlineKeyboardButton('Channel 📢', url='https://t.me/LushaiTech')
+                               InlineKeyboardButton('Channel 📢', url='https://t.me/InFoJosTel')
                        ],[
                                InlineKeyboardButton('❤️ Share & Support Me ❤️', url='https://t.me/share/url?url=Hi%20Friend%2C%0AAm%20Introducing%20a%20Powerful%0A%2A%2AMy%20Telegram%20Org%20APP%20ID%20%26%20API%20HASH%20Genarator%20Bot%2A%2A%20for%20Free.%0A%2A%2ABot%20Link%3A%2A%2A%20%40UseTGzKbot')
                         ]
