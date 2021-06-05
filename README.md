@@ -16,19 +16,37 @@
 </p>
 
 <b>Deploy in your vps</b>
-# <Clone the repository, locally.>
-```git clone https://github.com/LushaiTech/MyTelegramORG```
-# <Change the directory.>
-```cd YouTube-Downloader```
-# <Create a virtual environment.>
-```virtualenv -p /usr/bin/python3 venv```
-# <Activate the virtual environment.>
-```. ./venv/bin/activate```
-# <install the requirements.>
-```pip install -r requirements.txt```
-# <Create config.py>
-# <Run the bot.>
-```python3 bot.py```
+- clone the repository, locally.
+```sh
+git clone https://gitHub.com/LushaiTech/MyTelegramORG.git
+```
+
+- change the directory.
+```sh
+cd MyTelegramORG
+```
+
+- create a virtual environment.
+```sh
+virtualenv -p /usr/bin/python3 venv
+```
+
+- activate the virtual environment.
+```sh
+. ./venv/bin/activate
+```
+
+- install the requirements.
+```sh
+pip install -r requirements.txt
+```
+
+- create config.py
+
+- run the bot
+```sh
+python3 bot.py
+```
 
 ## [@ZauteKm](https://telegram.dog/helpLushaiTech)
 
