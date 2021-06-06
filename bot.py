@@ -20,7 +20,7 @@
 import logging
 import os
 
-from import ParseMode
+from telegram import ParseMode
 from telegram.ext import (
     Updater,
     CommandHandler,
