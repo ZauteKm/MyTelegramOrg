@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# (c) Shrimadhav U K | @ZauteKm
+# (c) Shrimadhav U K | @AbirHasan2005
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published by
@@ -69,18 +69,18 @@ def start(update, context):
     update.message.reply_text(
         Config.START_TEXT,
         parse_mode=ParseMode.HTML,
-        # (c) @ZauteKm
+        # (c) @AbirHasan2005
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton('⚠️ Disclaimer', url='https://t.me/ZauteKm/353'),
-                    InlineKeyboardButton('Feedback 🗣️', url='https://t.me/InFoJosTelGroup')
+                    InlineKeyboardButton('Source 🙄', url='https://t.me/iZaute/7')
               ],[
-                    InlineKeyboardButton('🤖 Bot Lists', url='https://t.me/TG_BotList/37'),
-                    InlineKeyboardButton('Music 👨‍🎤', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl'),
-                    InlineKeyboardButton('Channel 📢', url='https://t.me/InFoJosTel')
+                    InlineKeyboardButton('🤖 Bot Lists', url='https://t.me/iZaute/8'),
+                    InlineKeyboardButton('👥 Group', url='https://t.me/iZaute/5'),
+                    InlineKeyboardButton('Channel 📢', url='https://t.me/iZaute/6')
               ],[
-                    InlineKeyboardButton('⚜️ Subscribe Now YouTube ⚜️', url='https://youtube.com/playlist?list=PLzkiTywVmsSfmhaDdWNZ5PRmmMKGTIxPJ')
+                    InlineKeyboardButton('⚜️ Subscribe Now YouTube ⚜️', url='https://youtube.com/c/ZauteKm')
                ]
             ]
         )
@@ -184,13 +184,13 @@ def input_tg_code(update, context):
                     [
                          [
                                InlineKeyboardButton('⚠️ Disclaimer', url='https://t.me/ZauteKm/353'),
-                               InlineKeyboardButton('Feedback 🗣️', url='https://t.me/InFoJosTelGroup')
+                               InlineKeyboardButton('Source 🙄', url='https://t.me/iZaute/7')
                        ],[
-                               InlineKeyboardButton('🤖 Bot Lists', url='https://t.me/TG_BotList/37'),
-                               InlineKeyboardButton('Music 👨‍🎤', url='https://t.me/joinchat/7gSUxv6vgQE3M2Fl'),
-                               InlineKeyboardButton('Channel 📢', url='https://t.me/InFoJosTel')
+                               InlineKeyboardButton('🤖 Bot Lists', url='https://t.me/iZaute/8'),
+                               InlineKeyboardButton('👥 Group', url='https://t.me/iZaute/5'),
+                               InlineKeyboardButton('Channel 📢', url='https://t.me/iZaute/6')
                        ],[
-                               InlineKeyboardButton('❤️ Share & Support Me ❤️', url='https://t.me/share/url?url=Hi%20Friend%2C%0AAm%20Introducing%20a%20Powerful%0A%2A%2AMy%20Telegram%20Org%20APP%20ID%20%26%20API%20HASH%20Genarator%20Bot%2A%2A%20for%20Free.%0A%2A%2ABot%20Link%3A%2A%2A%20%40UseTGzKbot')
+                               InlineKeyboardButton('⚜️ Subscribe Now YouTube ⚜️', url='https://youtube.com/c/ZauteKm')
                         ]
                     ]
                 )
@@ -256,7 +256,7 @@ def main():
             port=Config.PORT,
             url_path=Config.TG_BOT_TOKEN
         )
-        # https://t.me/ZauteKm/353/
+        # https://t.me/MarieOT/22915
         updater.bot.set_webhook(url=Config.URL + Config.TG_BOT_TOKEN)
     else:
         updater.start_polling()
