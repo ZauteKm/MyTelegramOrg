@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# (c) Shrimadhav U K | @AbirHasan2005
+# (c) Shrimadhav U K | @ZauteKm
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published by
@@ -69,7 +69,7 @@ def start(update, context):
     update.message.reply_text(
         Config.START_TEXT,
         parse_mode=ParseMode.HTML,
-        # (c) @AbirHasan2005
+        # (c) @ZauteKm
         reply_markup=InlineKeyboardMarkup(
             [
                 [
