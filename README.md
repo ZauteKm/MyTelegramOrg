@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<b>Deploy in your vps</b>
+##Deploy in your VPS
 - clone the repository, locally.
 ```sh
 git clone https://gitHub.com/ZauteKm/MyTelegramORG.git
@@ -57,7 +57,7 @@ python3 bot.py
 
 ## learning
 
-check out the [helper_funcs](https://github.com/LushaiTech/MyTelegramORG/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
+check out the [helper_funcs](https://github.com/ZauteKm/MyTelegramORG/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
 
 ## LICENSE
 [AGPLv3](https://github.com/ZauteKm/MyTelegramORG/tree/master/LICENSE)
