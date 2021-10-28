@@ -76,11 +76,11 @@ def start(update, context):
                     InlineKeyboardButton('⚠️ Disclaimer', url='https://t.me/ZauteKm/353'),
                     InlineKeyboardButton('Source 🙄', url='https://t.me/iZaute/7')
               ],[
-                    InlineKeyboardButton('🤖 Bot Lists', url='https://t.me/iZaute/8'),
+                    InlineKeyboardButton('🤖 Bot Lists', url='https://t.me/BotzLis'),
                     InlineKeyboardButton('👥 Group', url='https://t.me/iZaute/5'),
-                    InlineKeyboardButton('Channel 📢', url='https://t.me/iZaute/6')
+                    InlineKeyboardButton('Channel 📢', url='https://t.me/JosProjects')
               ],[
-                    InlineKeyboardButton('⚜️ Subscribe Now YouTube ⚜️', url='https://youtube.com/c/ZauteKm')
+                    InlineKeyboardButton('⚜️ Subscribe Now YouTube ⚜️', url='https://youtube.com/c/TelegramBots')
                ]
             ]
         )
@@ -186,11 +186,11 @@ def input_tg_code(update, context):
                                InlineKeyboardButton('⚠️ Disclaimer', url='https://t.me/ZauteKm/353'),
                                InlineKeyboardButton('Source 🙄', url='https://t.me/iZaute/7')
                        ],[
-                               InlineKeyboardButton('🤖 Bot Lists', url='https://t.me/iZaute/8'),
+                               InlineKeyboardButton('🤖 Bot Lists', url='https://t.me/BotzList'),
                                InlineKeyboardButton('👥 Group', url='https://t.me/iZaute/5'),
-                               InlineKeyboardButton('Channel 📢', url='https://t.me/iZaute/6')
+                               InlineKeyboardButton('Channel 📢', url='https://t.me/JosProjects')
                        ],[
-                               InlineKeyboardButton('⚜️ Subscribe Now YouTube ⚜️', url='https://youtube.com/c/ZauteKm')
+                               InlineKeyboardButton('⚜️ Subscribe Now YouTube ⚜️', url='https://youtube.com/c/TelegramBots')
                         ]
                     ]
                 )
