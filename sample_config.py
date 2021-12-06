@@ -12,8 +12,8 @@ class Config(object):
     # MyTelegram.org
     # configurtion required while creating new application
     APP_TITLE = os.environ.get("APP_TITLE", "UseTGzKbot")
-    APP_SHORT_NAME = os.environ.get("APP_SHORT_NAME", "UseTGzKbot")
-    APP_URL = os.environ.get("APP_URL", "https://telegram.dog/UseTGzKbot")
+    APP_SHORT_NAME = os.environ.get("APP_SHORT_NAME", "UseTGOrgBot")
+    APP_URL = os.environ.get("APP_URL", "https://telegram.dog/UseTGOrgBot")
     # these platform informations were obtained
     # on 27.01.2020 21:15:50 IST
     APP_PLATFORM = [
