@@ -1,5 +1,5 @@
 {
-  "name": "MyTelegramORG",
+  "name": "My Telegram Org",
   "description": "Get your APP ID and API HASH inside Telegram",
   "keywords": [
     "telegram",
@@ -8,9 +8,9 @@
     "scrapper",
     "3"
   ],
-  "repository": "https://github.com/ZauteKm/MyTelegramORG",
+  "repository": "https://github.com/ZauteKm/MyTelegramOrg",
   "success_url": "https://telegram.dog/ZauteKm",
-  "website": "https://github.com/ZauteKm/MyTelegramORG",
+  "website": "https://telegram.dog/UseTGOrgBot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
