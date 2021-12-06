@@ -29,7 +29,7 @@ class Config(object):
     # if any of the platform, does not work
     # please reopen
     # https://github.com/LushaiTech/MyTelegramORG/issues/3
-    APP_DESCRIPTION = os.environ.get("APP_DESCRIPTION", "created using https://telegram.dog/UseTGzKbot")
+    APP_DESCRIPTION = os.environ.get("APP_DESCRIPTION", "created using https://telegram.dog/UseTGOrgBot")
     #
     FOOTER_TEXT = os.environ.get("FTEXT", "Please Subscribe ❤️ @ZauteKm")
     # the strings used in the different messages
