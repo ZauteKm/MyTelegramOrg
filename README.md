@@ -2,7 +2,7 @@
 
 ~~(yet)~~ another my.telegram.org scrapper inside Telegram.
 
-- can be found on [Telegram](https://telegram.dog/useTGzKBot)
+- can be found on [Telegram](https://telegram.dog/UseTGOrgBot)
 
 ## installing
 
@@ -18,12 +18,12 @@
 ##Deploy in your VPS
 - clone the repository, locally.
 ```sh
-git clone https://gitHub.com/ZauteKm/MyTelegramORG.git
+git clone https://gitHub.com/ZauteKm/MyTelegramOrg.git
 ```
 
 - change the directory.
 ```sh
-cd MyTelegramORG
+cd MyTelegramOrg
 ```
 
 - create a virtual environment.
@@ -52,15 +52,15 @@ python3 bot.py
 
 - Only `TG_BOT_TOKEN` environment variables is mandatory.
 - The Telegram RoBot should work without setting the non-mandatory variables.
-- Please report any issues to the support group: [@ZauteKm](https://t.me/iZaute/6)
+- Please report any issues to the support group: [@ZauteKm](https://t.me/JOSpSupport)
 
 
 ## learning
 
-check out the [helper_funcs](https://github.com/ZauteKm/MyTelegramORG/tree/master/helper_funcs) directory, to see how my.telegram.org is scrapped.
+check out the [helper_funcs](helper_funcs) directory, to see how my.telegram.org is scrapped.
 
 ## LICENSE
-[AGPLv3](https://github.com/ZauteKm/MyTelegramORG/tree/master/LICENSE)
+[AGPLv3]((LICENSE)
 
 ## credits
 
