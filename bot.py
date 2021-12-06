@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# (c) Shrimadhav U K | @ZauteKm
+# (c) Shrimadhav U K | Zaute Km
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU Affero General Public License as published by
@@ -73,14 +73,14 @@ def start(update, context):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('⚠️ Disclaimer', url='https://t.me/ZauteKm/353'),
-                    InlineKeyboardButton('Source 🙄', url='https://t.me/iZaute/7')
+                    InlineKeyboardButton('⚠️ disclaimer', url='https://telegram.me/ZauteKm/353'),
+                    InlineKeyboardButton('source 🙄', url='https://GitHub.com/ZauteKm/MyTelegramOrg')
               ],[
-                    InlineKeyboardButton('🤖 Bot Lists', url='https://t.me/BotzLis'),
-                    InlineKeyboardButton('👥 Group', url='https://t.me/iZaute/5'),
-                    InlineKeyboardButton('Channel 📢', url='https://t.me/JosProjects')
+                    InlineKeyboardButton('🤖 bot lists', url='https://t.me/BotzLis'),
+                    InlineKeyboardButton('👥 goup', url='https://telegram.dog/JOSPSupport'),
+                    InlineKeyboardButton('channel 📢', url='https://t.me/JosProjects')
               ],[
-                    InlineKeyboardButton('⚜️ Subscribe Now YouTube ⚜️', url='https://youtube.com/c/TelegramBots')
+                    InlineKeyboardButton('» Subscribe Now YouTube «', url='https://youtube.com/c/TelegramBots')
                ]
             ]
         )
@@ -183,14 +183,14 @@ def input_tg_code(update, context):
                 reply_markup=InlineKeyboardMarkup(
                     [
                          [
-                               InlineKeyboardButton('⚠️ Disclaimer', url='https://t.me/ZauteKm/353'),
-                               InlineKeyboardButton('Source 🙄', url='https://t.me/iZaute/7')
+                               InlineKeyboardButton('⚠️ disclaimer', url='https://telegram.me/ZauteKm/353'),
+                               InlineKeyboardButton('source 🙄', url='https://GitHub.com/ZauteKm/MyTelegramOrg')
                        ],[
-                               InlineKeyboardButton('🤖 Bot Lists', url='https://t.me/BotzList'),
-                               InlineKeyboardButton('👥 Group', url='https://t.me/iZaute/5'),
-                               InlineKeyboardButton('Channel 📢', url='https://t.me/JosProjects')
+                               InlineKeyboardButton('🤖 bot lists', url='https://telgram.dog/BotzList'),
+                               InlineKeyboardButton('👥 group', url='https://telegram.dog/JOSPSupport'),
+                               InlineKeyboardButton('channel 📢', url='https://telegram.dog/JosProjects')
                        ],[
-                               InlineKeyboardButton('⚜️ Subscribe Now YouTube ⚜️', url='https://youtube.com/c/TelegramBots')
+                               InlineKeyboardButton('» Subscribe Now YouTube «', url='https://youtube.com/c/TelegramBots')
                         ]
                     ]
                 )
